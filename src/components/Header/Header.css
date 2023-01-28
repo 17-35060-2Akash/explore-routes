@@ -1,0 +1,20 @@
+.header {
+    margin: 30px 0px;
+}
+
+.header a {
+    text-decoration: none;
+    margin: 20px;
+    padding: 20px;
+    font-size: larger;
+}
+
+.header a:hover {
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+
+.active {
+    background-color: bisque;
+    border-radius: 10px;
+}
